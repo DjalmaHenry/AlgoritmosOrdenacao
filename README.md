@@ -3,12 +3,21 @@
 <h1 align="center">Algoritmos de ordenação de vetor em Java</h1>
 
 <p align="center">
+  <a href="#-equipe">Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-métodos-implementados">Métodos Implementados</a>
 </p>
 
 <br>
+
+## 🙅‍♂ Equipe
+
+- Djalma Henrique Silva Lima
+- Henry Lucca Freitas Guimarães
+- Lucas dos Santos Amorim Rêgo
+- Marcos Fellipe Andrade da Silva
+- Ronny Lima Ribeiro da Silva
 
 ## ✨ Tecnologias
 
