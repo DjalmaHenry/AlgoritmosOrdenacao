@@ -164,7 +164,7 @@ public class App {
         }
     }
 
-    private static void quickSort(int[] vetor, int inicio, int fim) {
+    public static void quickSort(int[] vetor, int inicio, int fim) {
         if (inicio < fim) {
             int posicaoPivo = separar(vetor, inicio, fim);
             quickSort(vetor, inicio, posicaoPivo - 1);
@@ -203,7 +203,7 @@ public class App {
         }
     }
 
-    public static void merge(int vetor[], int l, int m, int r) {
+    private static void merge(int vetor[], int l, int m, int r) {
         int n1 = m - l + 1;
         int n2 = r - m;
         int L[] = new int[n1];
