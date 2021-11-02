@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Instale a JDK do Java
 - Clone o repositório
 - Abra o projeto de preferência com o VSCODE
+- Entre no `src/App.java`
 - Clique no Play para rodar o programa
 
 <br>
