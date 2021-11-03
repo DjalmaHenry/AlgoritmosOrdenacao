@@ -13,11 +13,11 @@
 
 ## 🙅‍♂ Equipe
 
-- Djalma Henrique Silva Lima
-- Henry Lucca Freitas Guimarães
-- Lucas dos Santos Amorim Rêgo
-- Marcos Fellipe Andrade da Silva
-- Ronny Lima Ribeiro da Silva
+- [Djalma Henrique Silva Lima](https://github.com/DjalmaHenry)
+- [Henry Lucca Freitas Guimarães](https://github.com/HenryLucca)
+- [Lucas dos Santos Amorim Rêgo](https://github.com/lucass235)
+- [Marcos Fellipe Andrade da Silva](https://github.com/marcosfandrade)
+- [Ronny Lima Ribeiro da Silva](https://github.com/ronnylrsd)
 
 ## ✨ Tecnologias
 
